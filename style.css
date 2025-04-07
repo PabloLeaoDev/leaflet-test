@@ -1,0 +1,6 @@
+html,
+body {
+    height: 100vh;
+}
+
+#map { height: 600px; width: 100%; }
